@@ -21,8 +21,7 @@ export default function Home() {
                     <h3 className="title">
                         WE PROMOTE YOUR <span>BUSINESS</span>
                     </h3>
-                    <p>Nemo enim ipsam oluptatem quia reoluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eosqui ratione.</p>
-                    <div className="btn_wrapper">
+                                    <div className="btn_wrapper">
                         <a className="btn" href="/">Get Started</a>
                     </div>
                 </div>
