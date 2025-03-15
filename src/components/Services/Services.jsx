@@ -2,6 +2,10 @@ import React from 'react';
 import './Services.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLaptopCode, faChartBar, faCopy, faMarker, faUserGear, faCoins } from '@fortawesome/free-solid-svg-icons';
+// import {faCoffee} from `@fortawesome/free-solid-svg-icons`;
+import { faBars } from '@fortawesome/free-solid-svg-icons';
+
+
 
 export default function Services() {
 

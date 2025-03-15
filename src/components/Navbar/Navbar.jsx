@@ -4,6 +4,7 @@ import {Link} from 'react-scroll';
 import Logo from '../../assets/logo/logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
+// import {faCoffee} from `@fortawesome/free-solid-svg-icons`;
 
 export default function Navbar() {
     // Mobile Menu State
